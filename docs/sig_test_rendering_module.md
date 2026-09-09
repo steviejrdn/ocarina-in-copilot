@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sig-test Rendering Module
+---
+
 # Ocarina — Significance Test Rendering Module
 
 ## PURPOSE
