@@ -1,3 +1,8 @@
+---
+layout: default
+title: RWA Chart Rendering Module
+---
+
 # Ocarina — RWA Chart Rendering Module
 
 ## PURPOSE
