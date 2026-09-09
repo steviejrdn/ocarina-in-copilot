@@ -1,3 +1,8 @@
+---
+layout: default
+title: Table Format
+---
+
 # Ocarina — Table Formatting Module (Hedonic, Intensity, JAR)
 
 ## PURPOSE
