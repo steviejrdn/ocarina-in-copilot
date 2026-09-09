@@ -1,3 +1,8 @@
+---
+layout: default
+title: U&A Study Context
+---
+
 # Ocarina — U&A Study Module
 
 ## PURPOSE
