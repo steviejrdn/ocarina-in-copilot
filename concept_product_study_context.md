@@ -1,3 +1,8 @@
+---
+layout: default
+title: Concept Product Study Context
+---
+
 # Ocarina — Study Context Module
 
 ## PURPOSE
